@@ -1,0 +1,9 @@
+name: Cores
+version: 1.0
+author: pewtu
+main: net.dragoria.cores.Cores
+commands:
+    cores:
+        description: Shows the amount of cores you have
+        usage: /cores
+        aliases: [c]
